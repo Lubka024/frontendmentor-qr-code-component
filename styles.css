@@ -14,5 +14,10 @@ body {
     max-width: 350px;
     background-color: #FFFFFF;
     border-radius: 5%;
+    overflow: hidden;
     color: #2B374D;
+}
+
+img {
+    max-width: 100%;
 }
