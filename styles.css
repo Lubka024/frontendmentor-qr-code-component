@@ -14,25 +14,41 @@ body {
     align-self: center;
     height: 100vh;
     font-family: "Outfit";
+    font-size: 15px;
+    color: hsl(218, 44%, 22%);
+}
+
+h1 {
+    font-size: 22px;
 }
 
 .container {
     max-height: 80vh;
-    max-width: 350px;
+    max-width: 300px;
     background-color: #FFFFFF;
-    border-radius: 5%;
-    color: #2B374D;
+    border-radius: 25px;
     place-self: center;
     font-family: "Outfit";
 }
 
 .qrcode {
     margin: 15px;
-    border-radius: 5%;
+    border-radius: 15px;
     overflow: hidden;
     max-width: 100%;
 }
 
 img {
     max-width: 100%;
+}
+
+.content {
+    margin: 15px;
+    margin-bottom: 40px;
+    display: grid;
+    gap: 15px;
+}
+
+.attribution {
+    display: none;
 }
