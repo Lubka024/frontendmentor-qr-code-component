@@ -15,10 +15,11 @@ body {
     height: 100vh;
     font-family: "Outfit";
     font-size: 15px;
-    color: hsl(218, 44%, 22%);
+    color: hsl(220, 15%, 55%)
 }
 
 h1 {
+    color: hsl(218, 44%, 22%);
     font-size: 22px;
 }
 
