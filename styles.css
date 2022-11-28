@@ -5,6 +5,10 @@
 }
 
 /*content styling*/
+@font-face {
+    font-family: "Outfit";
+    src: url(https://fonts.google.com/specimen/Outfit);
+  }
 
 body {
     background-color: #D5E1EF;
@@ -13,6 +17,7 @@ body {
     text-align: center;
     align-self: center;
     height: 100vh;
+    font-family: "Outfit";
 }
 
 .container {
@@ -20,9 +25,16 @@ body {
     max-width: 350px;
     background-color: #FFFFFF;
     border-radius: 5%;
-    overflow: hidden;
     color: #2B374D;
     place-self: center;
+    font-family: "Outfit";
+}
+
+.qrcode {
+    margin: 15px;
+    border-radius: 5%;
+    overflow: hidden;
+    max-width: 100%;
 }
 
 img {
