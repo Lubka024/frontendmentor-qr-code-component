@@ -5,10 +5,6 @@
 }
 
 /*content styling*/
-@font-face {
-    font-family: "Outfit";
-    src: url(https://fonts.google.com/specimen/Outfit);
-  }
 
 body {
     background-color: #D5E1EF;
