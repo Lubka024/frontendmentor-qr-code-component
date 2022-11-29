@@ -6,7 +6,7 @@
 
 /*content styling*/
 
-body {
+main {
     background-color: #D5E1EF;
     display: grid;
     place-content: center;
