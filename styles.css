@@ -34,9 +34,10 @@ h1 {
 
 .qrcode {
     margin: 15px;
-    border-radius: 15px;
+    border-radius: 1.5rem;
     overflow: hidden;
     max-width: 100%;
+    display: flex;
 }
 
 img {
