@@ -45,8 +45,8 @@ img {
 }
 
 .content {
-    margin: 1rem;
-    margin-bottom: 2rem;
+    margin: 2rem;
+    margin-bottom: 2.5rem;
     display: grid;
     gap: 1rem;
 }
